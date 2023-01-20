@@ -1,51 +1,51 @@
-﻿key,value
-"Destruction/Damage/Vandalism of Property",33112
-"Weapon Law Violations",23002
-"Simple Assault",15140
-"Drug/Narcotic Violations",9127
-"Kidnapping/Abduction",9099
-"Burglary/Breaking & Entering",8088
-"All Other Larceny",4448
-"Drug Equipment Violations",3779
-"Intimidation",3020
-"Aggravated Assault",2983
-"Motor Vehicle Theft",2379
-"Robbery",2088
-"Murder and Nonnegligent Manslaughter",1663
-"Stolen Property Offenses",1588
-"Sodomy",1563
-"Shoplifting",1354
-"Theft From Building",1197
-"Theft from Motor Vehicle",1054
-"Fondling",996
-"Bribery",996
-"Sexual Assault with an Object",623
-"Arson",555
-"Pornography/Obscene Material",524
-"False Pretenses/Swindle/Confidence game",460
-"Credit Card/Automated Teller Machine Fraud",331
-"Counterfeiting/Forgery",277
-"Impersonation",232
-"Animal Cruelty",204
+﻿Type of Crime,Type of Crime Count
+Destruction/Damage/Vandalism of Property,33112
+Weapon Law Violations,23002
+Simple Assault,15140
+Drug/Narcotic Violations,9127
+Kidnapping/Abduction,9099
+Burglary/Breaking & Entering,8088
+All Other Larceny,4448
+Drug Equipment Violations,3779
+Intimidation,3020
+Aggravated Assault,2983
+Motor Vehicle Theft,2379
+Robbery,2088
+Murder and Nonnegligent Manslaughter,1663
+Stolen Property Offenses,1588
+Sodomy,1563
+Shoplifting,1354
+Theft From Building,1197
+Theft from Motor Vehicle,1054
+Fondling,996
+Bribery,996
+Sexual Assault with an Object,623
+Arson,555
+Pornography/Obscene Material,524
+False Pretenses/Swindle/Confidence game,460
+Credit Card/Automated Teller Machine Fraud,331
+Counterfeiting/Forgery,277
+Impersonation,232
+Animal Cruelty,204
 "Human Trafficking, Commercial Sex Acts",139
-"Identity Theft",136
-"Extortion/Blackmail",121
-"Theft of Motor Vehicle Parts or Accessories",106
-"Pocket-Picking",95
-"Purse-snatching",94
-"Prostitution",81
-"Assisting or Promoting Prostitution",81
-"Statutory Rape",71
-"Negligent Manslaughter",36
-"Embezzlement",26
-"Incest",22
+Identity Theft,136
+Extortion/Blackmail,121
+Theft of Motor Vehicle Parts or Accessories,106
+Pocket-Picking,95
+Purse-snatching,94
+Prostitution,81
+Assisting or Promoting Prostitution,81
+Statutory Rape,71
+Negligent Manslaughter,36
+Embezzlement,26
+Incest,22
 "Human Trafficking, Involuntary Servitude",22
-"Purchasing Prostitution",17
-"Wire Fraud",14
-"Welfare Fraud",4
-"Hacking/Computer Invasion",4
-"Theft from Coin-operated Machine or Device",2
-"Operating/Promoting/Assisting Gambling",1
-"Betting/Wagering",1
-"Gambling Equipment Violation",0
-"Sports Tampering",0
+Purchasing Prostitution,17
+Wire Fraud,14
+Welfare Fraud,4
+Hacking/Computer Invasion,4
+Theft from Coin-operated Machine or Device,2
+Operating/Promoting/Assisting Gambling,1
+Betting/Wagering,1
+Gambling Equipment Violation,0
+Sports Tampering,0

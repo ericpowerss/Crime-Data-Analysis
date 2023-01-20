@@ -1,47 +1,47 @@
-﻿key,value
-"Residence Home",346399
-"Highway/Alley/Street/Sidewalk",130331
-"Parking Garage/Lot",45107
-"Convenience Store",20108
-"Unknown",17981
-"Hotel/Motel",16588
-"Gas Station",11795
-"Restaurant",10490
-"Department/Discount Store",9870
-"Park/Playground",7323
-"Specialty Store",6948
-"Commercial/Office Building",6250
-"Grocery Store",5917
-"Bar/Nightclub",5839
-"Drug Store/Doctors Office/Hospital",5756
-"Field/Woods",4787
-"Jail/Prison/Corrections Facility",3823
-"School Elementary/Secondary",2537
-"Bank",2523
-"Government/Public Building",2201
-"Air/Bus/Train Terminal",1846
-"Liquor Store",1512
-"Shopping Mall",1133
-"Church/Synagogue/Temple/Mosque",851
-"School College/University",730
-"Lake/Waterway/Beach",712
-"School/College",678
-"Campground",662
-"Gambling Facility/Casino/Race Track",650
-"Rental Storage Facility",622
-"Mission/Homeless Shelter",621
-"Construction Site",503
-"Auto Dealership",386
-"Abandoned Condemned/Structure",374
-"Industrial Site",285
-"Community Center",282
-"Rest Area",279
-"Daycare Facility",243
-"ATM Separate From Bank",221
-"Farm Facility",149
-"Amusement Park",134
-"Arena/Stadium/Fairgrounds",127
-"Dock/Wharf/Shipping Terminal",87
-"Tribal Lands",35
-"Military Base",20
-"Cyberspace",0
+﻿Location,Location Value
+Residence Home,346399
+Highway/Alley/Street/Sidewalk,130331
+Parking Garage/Lot,45107
+Convenience Store,20108
+Unknown,17981
+Hotel/Motel,16588
+Gas Station,11795
+Restaurant,10490
+Department/Discount Store,9870
+Park/Playground,7323
+Specialty Store,6948
+Commercial/Office Building,6250
+Grocery Store,5917
+Bar/Nightclub,5839
+Drug Store/Doctors Office/Hospital,5756
+Field/Woods,4787
+Jail/Prison/Corrections Facility,3823
+School Elementary/Secondary,2537
+Bank,2523
+Government/Public Building,2201
+Air/Bus/Train Terminal,1846
+Liquor Store,1512
+Shopping Mall,1133
+Church/Synagogue/Temple/Mosque,851
+School College/University,730
+Lake/Waterway/Beach,712
+School/College,678
+Campground,662
+Gambling Facility/Casino/Race Track,650
+Rental Storage Facility,622
+Mission/Homeless Shelter,621
+Construction Site,503
+Auto Dealership,386
+Abandoned Condemned/Structure,374
+Industrial Site,285
+Community Center,282
+Rest Area,279
+Daycare Facility,243
+ATM Separate From Bank,221
+Farm Facility,149
+Amusement Park,134
+Arena/Stadium/Fairgrounds,127
+Dock/Wharf/Shipping Terminal,87
+Tribal Lands,35
+Military Base,20
+Cyberspace,0
